@@ -1,5 +1,5 @@
 # Seja bem vindo a Info Service Technology 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/InfoServiceTechnology)](https://github.com/mauroslucios)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/InfoServiceTechnology)](https://github.com/Info-Service-Technology)
 [![Facebook Badge](https://img.shields.io/badge/facebook-%231877F2.svg?&style=flat-square&labelColor=01579B&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61553859786097)
 ### About me
 <p>Nosso objetivo é transformar a forma como a saúde pública e privada lida com o diagnóstico e a prevenção dessas doenças, utilizando modelos preditivos avançados para buscarmos identificar riscos, nos primeiros casos e sintomas.</p>
