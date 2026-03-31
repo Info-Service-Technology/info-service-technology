@@ -13,10 +13,10 @@
 ### Contato
 - Rua Marechal Deodoro, 153/165 - Petrópolis
 - Rio de Janeiro - Brazil 25620-150
-- hello@infoservicetechnology.com.br
+- hello@infoservicetechnology.com
 - (24) 2019-0360
 - (24) 97404-6057 whatsapp
-- https://infoservicetechnology.com.br/
+- https://infoservicetechnology.com
   
   
   
